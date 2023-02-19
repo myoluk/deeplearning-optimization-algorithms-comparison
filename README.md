@@ -1,6 +1,7 @@
 # Deep Learning - Optimization Algorithms Comparison
 
 ## Dataset
+![Dataset](/images/dataset.png)
 
 ## Optimization Algoritms
 
