@@ -19,7 +19,7 @@
 
 | Performance | Model |
 | ----------- | ----- |
-| ![performance](/images/) | ![model](/images/) |
+| ![performance](/images/mini-batch-gradient-descent-momentum-performance.png) | ![model](/images/mini-batch-gradient-descent-momentum-model.png) |
 
 ### Mini-Batch with Adam
 
