@@ -16,5 +16,5 @@
 
 ### Mini-Batch with Adam
 
-- Accuracy: 0.9433333333333334
+- Accuracy: 0.94
 
