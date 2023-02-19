@@ -27,4 +27,4 @@
 
 | Performance | Model |
 | ----------- | ----- |
-| ![performance](/images/) | ![model](/images/) |
+| ![performance](/images/mini-batch-adam-performance.png) | ![model](/images/mini-batch-adam-model.png) |
