@@ -11,6 +11,7 @@
 
 | Performance | Model |
 | ----------- | ----- |
+| ![performance](/images/) | ![model](/images/) |
 
 ### Mini-Batch Gradient Descent with Momentum
 
@@ -18,6 +19,7 @@
 
 | Performance | Model |
 | ----------- | ----- |
+| ![performance](/images/) | ![model](/images/) |
 
 ### Mini-Batch with Adam
 
@@ -25,3 +27,4 @@
 
 | Performance | Model |
 | ----------- | ----- |
+| ![performance](/images/) | ![model](/images/) |
