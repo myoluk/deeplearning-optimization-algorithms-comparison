@@ -11,7 +11,7 @@
 
 | Performance | Model |
 | ----------- | ----- |
-| ![performance](/images/) | ![model](/images/) |
+| ![performance](/images/mini-batch-gradient-descent-performance.png) | ![model](/images/mini-batch-gradient-descent-model.png) |
 
 ### Mini-Batch Gradient Descent with Momentum
 
