@@ -2,6 +2,7 @@
 
 ## Algorithms
 - ![Mini-Batch Gradient Descent](#mini-batch-gradient-descent)
+- ![Mini-Batch Gradient Descent with Momentum](#mini-batch-gradient-descent-with-momentum)
 
 ## Dataset
 ![Dataset](/images/dataset.png)
