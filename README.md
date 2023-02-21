@@ -1,5 +1,8 @@
 # Deep Learning - Optimization Algorithms Comparison
 
+## Algorithms
+- ![Mini-Batch Gradient Descent](#mini-batch-gradient-descent)
+
 ## Dataset
 ![Dataset](/images/dataset.png)
 
