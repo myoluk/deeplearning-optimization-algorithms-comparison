@@ -1,6 +1,6 @@
 # Deep Learning - Optimization Algorithms Comparison
 
-## Algorithms
+## Optimization Algoritms
 - ![Mini-Batch Gradient Descent](#mini-batch-gradient-descent)
 - ![Mini-Batch Gradient Descent with Momentum](#mini-batch-gradient-descent-with-momentum)
 - ![Mini-Batch with Adam](#mini-batch-with-adam)
