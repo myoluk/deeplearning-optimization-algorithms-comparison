@@ -30,7 +30,7 @@
 
 ### Mini-Batch with Adam
 
-- Accuracy: 0.94
+- accuracy: 0.94
 
 | Performance | Model |
 | ----------- | ----- |
