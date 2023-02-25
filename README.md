@@ -22,7 +22,7 @@
 
 ### Mini-Batch Gradient Descent with Momentum
 
-- accuracy: 0.72
+- [x] accuracy: 0.72
 
 | Performance | Model |
 | ----------- | ----- |
