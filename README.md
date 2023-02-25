@@ -14,7 +14,7 @@
 
 ### Mini-Batch Gradient Descent
 
-- accuracy: 0.72
+- [x] accuracy: 0.72
 
 | Performance | Model |
 | ----------- | ----- |
