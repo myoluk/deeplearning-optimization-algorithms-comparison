@@ -7,7 +7,7 @@
   - ![Mini-Batch Gradient Descent with Momentum](#mini-batch-gradient-descent-with-momentum)
   - ![Mini-Batch with Adam](#mini-batch-with-adam)
 
-## Dataset
+## :dart: Dataset
 ![Dataset](/images/dataset.png)
 
 ## Optimization Algoritms
