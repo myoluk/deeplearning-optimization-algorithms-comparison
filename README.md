@@ -1,7 +1,7 @@
 # Deep Learning - Optimization Algorithms Comparison
 
 ## :scroll: Contents
-- ![Dataset](#dataset)
+- ![Dataset](#dart-dataset)
 - ![Optimization Algoritms](#optimization-algoritms)
   - ![Mini-Batch Gradient Descent](#mini-batch-gradient-descent)
   - ![Mini-Batch Gradient Descent with Momentum](#mini-batch-gradient-descent-with-momentum)
