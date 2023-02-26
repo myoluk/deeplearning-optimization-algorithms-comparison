@@ -1,11 +1,11 @@
 # Deep Learning - Optimization Algorithms Comparison
 
 ## :scroll: Contents
-- ![Dataset](#dart-dataset)
-- ![Optimization Algoritms](#optimization-algoritms)
-  - ![Mini-Batch Gradient Descent](#mini-batch-gradient-descent)
-  - ![Mini-Batch Gradient Descent with Momentum](#mini-batch-gradient-descent-with-momentum)
-  - ![Mini-Batch with Adam](#mini-batch-with-adam)
+- [Dataset](#dart-dataset)
+- [Optimization Algoritms](#optimization-algoritms)
+  - [Mini-Batch Gradient Descent](#mini-batch-gradient-descent)
+  - [Mini-Batch Gradient Descent with Momentum](#mini-batch-gradient-descent-with-momentum)
+  - [Mini-Batch with Adam](#mini-batch-with-adam)
 
 ## :dart: Dataset
 ![Dataset](/images/dataset.png)
